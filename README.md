@@ -2,6 +2,8 @@
 
 A debugging system for multi-step, non-deterministic algorithmic processes.
 
+Loom Video - https://www.loom.com/share/8d5fb5184eea4bbdb5a1a8fd94e2411c
+
 ## Overview
 
 X-Ray provides transparency into complex decision pipelines by capturing not just *what* happened, but *why* each decision was made. Unlike traditional logging or tracing, X-Ray records the reasoning behind every step, making it easy to pinpoint exactly where things went wrong.
